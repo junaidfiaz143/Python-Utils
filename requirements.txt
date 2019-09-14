@@ -1,0 +1,11 @@
+tensorflow-gpu
+argparse
+pillow
+lxml
+Cython
+contextlib2
+jupyter
+matplotlib
+pandas
+opencv-python
+youtube-dl
